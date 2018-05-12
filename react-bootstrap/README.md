@@ -12,7 +12,7 @@ Clone master repository
 git clone 
 ```
 
-Navigate to projectmanager directory
+Navigate to react-bootstrap directory
 ```sh
 cd React-Projects/react-bootstrap
 ```
