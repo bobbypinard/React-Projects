@@ -1,4 +1,4 @@
-# React Notes
+# Firebase Flashcards
 
 ![Current UI](Current_UI.png)
 
