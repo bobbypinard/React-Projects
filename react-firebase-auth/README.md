@@ -1,4 +1,4 @@
-# React Notes
+# React Firebase Auth
 
 ![Current UI](Current_UI.png)
 
