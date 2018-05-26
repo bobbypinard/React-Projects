@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import fire from './config/Fire';
+import fire from './../config/Fire';
+import './Login.css'
 
 class Login extends Component {
   constructor(props) {
@@ -36,14 +37,17 @@ class Login extends Component {
   render() {
     return (
       <div className="col-md-6">
+        <image src="./Assets/react-logo.png" />
+        <span className="plus">+</span>
+        <image src="./Assets/firebase-logo.png" />
         <form>
           <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
+            <label className="email" for="exampleInputEmail1">Email address </label>
             <input  value={this.state.email} onChange={this.handleChange} type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
           </div>
+          <br />
           <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
+            <label className="password" for="exampleInputPassword1">Password </label>
             <input  value={this.state.password} onChange={this.handleChange} type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password" />
           </div>
           <button type="submit" onClick={this.login} class="btn btn-primary">Login</button>
