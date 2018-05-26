@@ -1,0 +1,7 @@
+ul {
+  list-style: none;
+}
+
+.Projects ul {
+  font-size: 2em;
+}

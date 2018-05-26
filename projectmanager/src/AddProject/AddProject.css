@@ -1,0 +1,9 @@
+.addProject .title {
+  font-family: 'Courgette';
+  font-size: 4em;
+}
+
+.title input {
+  width: 50%;
+  font-size: .75em;
+}
