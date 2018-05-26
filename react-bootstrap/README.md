@@ -19,12 +19,12 @@ cd React-Projects/react-bootstrap
 
 Install all dependencies
 ```sh
-yarn install
+npm install
 ```
 
 Run app
 ```sh
-yarn start
+npm start
 ```
 
 ## Comment, Questions or Concerns
