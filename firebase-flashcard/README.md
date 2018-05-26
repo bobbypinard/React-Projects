@@ -19,12 +19,12 @@ cd React-Projects/firebase-flashcard
 
 Install all dependencies
 ```sh
-yarn add
+npm add
 ```
 
 Run app
 ```sh
-yarn start
+npm start
 ```
 
 ## Comment, Questions or Concerns
