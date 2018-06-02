@@ -1,6 +1,6 @@
 # ReactJS Projects
 
-These are projects to keep me writing code and learning ReactJS while I currently don't have a job in software development.
+Projects I have done for learning and growing with ReactJS.
 
 ## Table of contents
 - [Project Manager](https://github.com/bobbypinard/React-Projects/tree/master/projectmanager) - Simple CRUD app to keep up with projects.
